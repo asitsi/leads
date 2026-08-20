@@ -1,0 +1,902 @@
+[
+  {
+    "sno": "1",
+    "name": "Shah Book Shop",
+    "category": "Book store",
+    "city": "Anantnag",
+    "phone": "+91 95969 99000",
+    "wa": "919596999000",
+    "url": "https://wa.me/919596999000"
+  },
+  {
+    "sno": "2",
+    "name": "Shah Book Depot",
+    "category": "Book store",
+    "city": "Anantnag",
+    "phone": "+91 94194 52958",
+    "wa": "919419452958",
+    "url": "https://wa.me/919419452958"
+  },
+  {
+    "sno": "3",
+    "name": "Royal Book Stall",
+    "category": "Book store",
+    "city": "Anantnag",
+    "phone": "+91 94190 49308",
+    "wa": "919419049308",
+    "url": "https://wa.me/919419049308"
+  },
+  {
+    "sno": "4",
+    "name": "Arm Telecom",
+    "category": "Telecom / stationery",
+    "city": "Anantnag",
+    "phone": "+91 96225 12924",
+    "wa": "919622512924",
+    "url": "https://wa.me/919622512924"
+  },
+  {
+    "sno": "5",
+    "name": "Lucky Mobile Store",
+    "category": "Mobile phone store",
+    "city": "Anantnag",
+    "phone": "+91 70068 73822",
+    "wa": "917006873822",
+    "url": "https://wa.me/917006873822"
+  },
+  {
+    "sno": "6",
+    "name": "Mobile Mart",
+    "category": "Mobile phone store",
+    "city": "Anantnag",
+    "phone": "+91 95961 29990",
+    "wa": "919596129990",
+    "url": "https://wa.me/919596129990"
+  },
+  {
+    "sno": "7",
+    "name": "Dial Deals",
+    "category": "Mobile phone store",
+    "city": "Anantnag",
+    "phone": "+91 70066 45123",
+    "wa": "917006645123",
+    "url": "https://wa.me/917006645123"
+  },
+  {
+    "sno": "8",
+    "name": "Al-Iqbal Enterprises",
+    "category": "Mobile phone store",
+    "city": "Anantnag",
+    "phone": "+91 60051 17825",
+    "wa": "916005117825",
+    "url": "https://wa.me/916005117825"
+  },
+  {
+    "sno": "9",
+    "name": "Fazil Mobile Store",
+    "category": "Mobile phone store",
+    "city": "Anantnag",
+    "phone": "+91 96823 51560",
+    "wa": "919682351560",
+    "url": "https://wa.me/919682351560"
+  },
+  {
+    "sno": "10",
+    "name": "Cell Fashion",
+    "category": "Mobile phone store",
+    "city": "Anantnag",
+    "phone": "+91 60060 83973",
+    "wa": "916006083973",
+    "url": "https://wa.me/916006083973"
+  },
+  {
+    "sno": "11",
+    "name": "Nowgam Telecom",
+    "category": "Mobile phone store",
+    "city": "Anantnag",
+    "phone": "+91 99065 60686",
+    "wa": "919906560686",
+    "url": "https://wa.me/919906560686"
+  },
+  {
+    "sno": "12",
+    "name": "Dar Telecom Zirpora",
+    "category": "Mobile phone store",
+    "city": "Anantnag",
+    "phone": "+91 96228 24751",
+    "wa": "919622824751",
+    "url": "https://wa.me/919622824751"
+  },
+  {
+    "sno": "13",
+    "name": "Hazik Telecom",
+    "category": "Mobile phone store",
+    "city": "Anantnag",
+    "phone": "+91 70066 02784",
+    "wa": "917006602784",
+    "url": "https://wa.me/917006602784"
+  },
+  {
+    "sno": "14",
+    "name": "Mehraj Wagay Telecom",
+    "category": "Mobile phone store",
+    "city": "Anantnag",
+    "phone": "+91 70063 42943",
+    "wa": "917006342943",
+    "url": "https://wa.me/917006342943"
+  },
+  {
+    "sno": "15",
+    "name": "Lal Chowk Mobile Shop",
+    "category": "Mobile phone store",
+    "city": "Anantnag",
+    "phone": "+91 77808 48077",
+    "wa": "917780848077",
+    "url": "https://wa.me/917780848077"
+  },
+  {
+    "sno": "16",
+    "name": "Sagar Mobi Spot",
+    "category": "Mobile phone store",
+    "city": "Anantnag",
+    "phone": "+91 70060 58258",
+    "wa": "917006058258",
+    "url": "https://wa.me/917006058258"
+  },
+  {
+    "sno": "17",
+    "name": "Bodha Medical Store",
+    "category": "Pharmacy",
+    "city": "Anantnag",
+    "phone": "+91 94195 68530",
+    "wa": "919419568530",
+    "url": "https://wa.me/919419568530"
+  },
+  {
+    "sno": "18",
+    "name": "Crewel Creation",
+    "category": "Carpet / handicrafts",
+    "city": "Anantnag",
+    "phone": "+91 70060 49215",
+    "wa": "917006049215",
+    "url": "https://wa.me/917006049215"
+  },
+  {
+    "sno": "19",
+    "name": "Friends Hardware Store",
+    "category": "Hardware store",
+    "city": "Aishmuqam",
+    "phone": "+91 99064 83773",
+    "wa": "919906483773",
+    "url": "https://wa.me/919906483773"
+  },
+  {
+    "sno": "20",
+    "name": "Shahi Bakery and Confectionary",
+    "category": "Bakery",
+    "city": "Anantnag",
+    "phone": "+91 94190 91323",
+    "wa": "919419091323",
+    "url": "https://wa.me/919419091323"
+  },
+  {
+    "sno": "21",
+    "name": "Decent Bakery",
+    "category": "Bakery",
+    "city": "Anantnag",
+    "phone": "+91 99067 00836",
+    "wa": "919906700836",
+    "url": "https://wa.me/919906700836"
+  },
+  {
+    "sno": "22",
+    "name": "Salati Shoeroom",
+    "category": "Shoe store",
+    "city": "Anantnag",
+    "phone": "+91 97979 76634",
+    "wa": "919797976634",
+    "url": "https://wa.me/919797976634"
+  },
+  {
+    "sno": "23",
+    "name": "Elan Fitness Club",
+    "category": "Gym",
+    "city": "Anantnag",
+    "phone": "+91 94190 41003",
+    "wa": "919419041003",
+    "url": "https://wa.me/919419041003"
+  },
+  {
+    "sno": "24",
+    "name": "Y Mart",
+    "category": "Convenience store",
+    "city": "Anantnag",
+    "phone": "+91 95963 84592",
+    "wa": "919596384592",
+    "url": "https://wa.me/919596384592"
+  },
+  {
+    "sno": "25",
+    "name": "Kajaria Star Showroom / Sanitary N Marble House",
+    "category": "Hardware / sanitary",
+    "city": "Anantnag",
+    "phone": "+91 94190 43656",
+    "wa": "919419043656",
+    "url": "https://wa.me/919419043656"
+  },
+  {
+    "sno": "26",
+    "name": "Sultani Printing Press",
+    "category": "Printing",
+    "city": "Baramulla",
+    "phone": "+91 97972 87599",
+    "wa": "919797287599",
+    "url": "https://wa.me/919797287599"
+  },
+  {
+    "sno": "27",
+    "name": "Universal Gallery Baramulla",
+    "category": "Business services",
+    "city": "Baramulla",
+    "phone": "+91 99066 29666",
+    "wa": "919906629666",
+    "url": "https://wa.me/919906629666"
+  },
+  {
+    "sno": "28",
+    "name": "Neosoft Computers Sopore",
+    "category": "Computer store",
+    "city": "Sopore",
+    "phone": "+91 84919 99008",
+    "wa": "918491999008",
+    "url": "https://wa.me/918491999008"
+  },
+  {
+    "sno": "29",
+    "name": "Beeco Departmental Store",
+    "category": "Department store",
+    "city": "Baramulla",
+    "phone": "+91 88990 03087",
+    "wa": "918899003087",
+    "url": "https://wa.me/918899003087"
+  },
+  {
+    "sno": "30",
+    "name": "Aasayish Departmental Store",
+    "category": "Department store",
+    "city": "Baramulla",
+    "phone": "+91 99065 19888",
+    "wa": "919906519888",
+    "url": "https://wa.me/919906519888"
+  },
+  {
+    "sno": "31",
+    "name": "Mehboob Colour Lab",
+    "category": "Photo lab",
+    "city": "Baramulla",
+    "phone": "+91 94696 36930",
+    "wa": "919469636930",
+    "url": "https://wa.me/919469636930"
+  },
+  {
+    "sno": "32",
+    "name": "Lokchaar",
+    "category": "Clothing store",
+    "city": "Baramulla",
+    "phone": "+91 96978 89866",
+    "wa": "919697889866",
+    "url": "https://wa.me/919697889866"
+  },
+  {
+    "sno": "33",
+    "name": "Pets Hub Baramulla",
+    "category": "Pet store",
+    "city": "Baramulla",
+    "phone": "+91 60064 86432",
+    "wa": "916006486432",
+    "url": "https://wa.me/916006486432"
+  },
+  {
+    "sno": "34",
+    "name": "Dr Daljit's Pet Clinic",
+    "category": "Veterinary clinic",
+    "city": "Baramulla",
+    "phone": "+91 84940 70993",
+    "wa": "918494070993",
+    "url": "https://wa.me/918494070993"
+  },
+  {
+    "sno": "35",
+    "name": "Pets World Baramulla",
+    "category": "Pet store",
+    "city": "Baramulla",
+    "phone": "+91 97977 61613",
+    "wa": "919797761613",
+    "url": "https://wa.me/919797761613"
+  },
+  {
+    "sno": "36",
+    "name": "Health & Fitness Gym",
+    "category": "Gym",
+    "city": "Baramulla",
+    "phone": "+91 90151 66679",
+    "wa": "919015166679",
+    "url": "https://wa.me/919015166679"
+  },
+  {
+    "sno": "37",
+    "name": "Hulk Gym Center",
+    "category": "Gym",
+    "city": "Baramulla",
+    "phone": "+91 94199 59787",
+    "wa": "919419959787",
+    "url": "https://wa.me/919419959787"
+  },
+  {
+    "sno": "38",
+    "name": "Mak Chemists and Druggists",
+    "category": "Pharmacy",
+    "city": "Baramulla",
+    "phone": "+91 77808 12295",
+    "wa": "917780812295",
+    "url": "https://wa.me/917780812295"
+  },
+  {
+    "sno": "39",
+    "name": "Xilent Enterprises",
+    "category": "Grocery / general store",
+    "city": "Baramulla",
+    "phone": "+91 60060 34816",
+    "wa": "916006034816",
+    "url": "https://wa.me/916006034816"
+  },
+  {
+    "sno": "40",
+    "name": "Ahmed Complex",
+    "category": "Shopping complex",
+    "city": "Baramulla",
+    "phone": "+91 77809 07373",
+    "wa": "917780907373",
+    "url": "https://wa.me/917780907373"
+  },
+  {
+    "sno": "41",
+    "name": "Trackon Courier Services",
+    "category": "Courier",
+    "city": "Baramulla",
+    "phone": "+91 60057 31725",
+    "wa": "916005731725",
+    "url": "https://wa.me/916005731725"
+  },
+  {
+    "sno": "42",
+    "name": "Delight Milk Shop",
+    "category": "Dairy store",
+    "city": "Baramulla",
+    "phone": "+91 70067 07773",
+    "wa": "917006707773",
+    "url": "https://wa.me/917006707773"
+  },
+  {
+    "sno": "43",
+    "name": "Pirates' Hive",
+    "category": "Cafe / restaurant",
+    "city": "Baramulla",
+    "phone": "+91 84930 18181",
+    "wa": "918493018181",
+    "url": "https://wa.me/918493018181"
+  },
+  {
+    "sno": "44",
+    "name": "Azad Gunj Transport",
+    "category": "Transport service",
+    "city": "Baramulla",
+    "phone": "+91 99065 40607",
+    "wa": "919906540607",
+    "url": "https://wa.me/919906540607"
+  },
+  {
+    "sno": "45",
+    "name": "Raj Palace Hotel",
+    "category": "Hotel",
+    "city": "Kupwara",
+    "phone": "+91 99068 15161",
+    "wa": "919906815161",
+    "url": "https://wa.me/919906815161"
+  },
+  {
+    "sno": "46",
+    "name": "Bismillah Hotel",
+    "category": "Hotel / restaurant",
+    "city": "Kupwara",
+    "phone": "+91 99066 82818",
+    "wa": "919906682818",
+    "url": "https://wa.me/919906682818"
+  },
+  {
+    "sno": "47",
+    "name": "Chunk City The Restaurant Kupwara",
+    "category": "Restaurant",
+    "city": "Kupwara",
+    "phone": "+91 88999 36480",
+    "wa": "918899936480",
+    "url": "https://wa.me/918899936480"
+  },
+  {
+    "sno": "48",
+    "name": "Rishi Baba Concrete",
+    "category": "Construction materials",
+    "city": "Kupwara",
+    "phone": "+91 99061 45005",
+    "wa": "919906145005",
+    "url": "https://wa.me/919906145005"
+  },
+  {
+    "sno": "49",
+    "name": "Asian Tailors Kupwara Boutique Studio",
+    "category": "Tailor / boutique",
+    "city": "Kupwara",
+    "phone": "+91 1955 252085",
+    "wa": "911955252085",
+    "url": "https://wa.me/911955252085"
+  },
+  {
+    "sno": "50",
+    "name": "Rata Family Showroom",
+    "category": "Clothing store",
+    "city": "Kupwara",
+    "phone": "+91 72986 13781",
+    "wa": "917298613781",
+    "url": "https://wa.me/917298613781"
+  },
+  {
+    "sno": "51",
+    "name": "Glitters",
+    "category": "Children's clothing",
+    "city": "Kupwara",
+    "phone": "+91 1955 253357",
+    "wa": "911955253357",
+    "url": "https://wa.me/911955253357"
+  },
+  {
+    "sno": "52",
+    "name": "Kupwara Veterinary Clinic",
+    "category": "Veterinary clinic",
+    "city": "Kupwara",
+    "phone": "+91 70065 39363",
+    "wa": "917006539363",
+    "url": "https://wa.me/917006539363"
+  },
+  {
+    "sno": "53",
+    "name": "Hotel Grand Hill View",
+    "category": "Hotel",
+    "city": "Tangmarg",
+    "phone": "+91 78895 79966",
+    "wa": "917889579966",
+    "url": "https://wa.me/917889579966"
+  },
+  {
+    "sno": "54",
+    "name": "Hotel Gulmarg Countryside",
+    "category": "Hotel",
+    "city": "Tangmarg",
+    "phone": "+91 97977 72773",
+    "wa": "919797772773",
+    "url": "https://wa.me/919797772773"
+  },
+  {
+    "sno": "55",
+    "name": "Chinar Wood Cottage",
+    "category": "Cottage / lodging",
+    "city": "Tangmarg",
+    "phone": "+91 78899 74115",
+    "wa": "917889974115",
+    "url": "https://wa.me/917889974115"
+  },
+  {
+    "sno": "56",
+    "name": "7m Cottage",
+    "category": "Cottage / lodging",
+    "city": "Tangmarg",
+    "phone": "+91 60055 78166",
+    "wa": "916005578166",
+    "url": "https://wa.me/916005578166"
+  },
+  {
+    "sno": "57",
+    "name": "Banihal Paradise",
+    "category": "Hotel",
+    "city": "Banihal",
+    "phone": "+91 70060 97485",
+    "wa": "917006097485",
+    "url": "https://wa.me/917006097485"
+  },
+  {
+    "sno": "58",
+    "name": "Hotel Shiv Residency & Restaurant",
+    "category": "Hotel / restaurant",
+    "city": "Bhaderwah",
+    "phone": "+91 99063 89480",
+    "wa": "919906389480",
+    "url": "https://wa.me/919906389480"
+  },
+  {
+    "sno": "59",
+    "name": "Hotel Jai Vasuki",
+    "category": "Hotel",
+    "city": "Bhaderwah",
+    "phone": "+91 94191 54361",
+    "wa": "919419154361",
+    "url": "https://wa.me/919419154361"
+  },
+  {
+    "sno": "60",
+    "name": "Tanzeb Uniform Shop",
+    "category": "Uniform / clothing",
+    "city": "Sopore",
+    "phone": "+91 94190 32100",
+    "wa": "919419032100",
+    "url": "https://wa.me/919419032100"
+  },
+  {
+    "sno": "61",
+    "name": "10 Tables Only 4 Foodies",
+    "category": "Restaurant",
+    "city": "Sopore",
+    "phone": "+91 90189 04445",
+    "wa": "919018904445",
+    "url": "https://wa.me/919018904445"
+  },
+  {
+    "sno": "62",
+    "name": "Fair Deal Cosmetics",
+    "category": "Cosmetics / pharmacy",
+    "city": "Sopore",
+    "phone": "+91 1954 222344",
+    "wa": "911954222344",
+    "url": "https://wa.me/911954222344"
+  },
+  {
+    "sno": "63",
+    "name": "Aadil Medicate Botingoo",
+    "category": "Pharmacy",
+    "city": "Sopore",
+    "phone": "+91 78894 85835",
+    "wa": "917889485835",
+    "url": "https://wa.me/917889485835"
+  },
+  {
+    "sno": "64",
+    "name": "New Global Sports Sangrama",
+    "category": "Sporting goods",
+    "city": "Sopore",
+    "phone": "+91 70065 95106",
+    "wa": "917006595106",
+    "url": "https://wa.me/917006595106"
+  },
+  {
+    "sno": "65",
+    "name": "Museum World Sopore",
+    "category": "Mobile phone store",
+    "city": "Sopore",
+    "phone": "+91 99066 94494",
+    "wa": "919906694494",
+    "url": "https://wa.me/919906694494"
+  },
+  {
+    "sno": "66",
+    "name": "Merix Web Experts",
+    "category": "Computer repair",
+    "city": "Sopore",
+    "phone": "+91 64649 17014",
+    "wa": "916464917014",
+    "url": "https://wa.me/916464917014"
+  },
+  {
+    "sno": "67",
+    "name": "Advocate Hilal's Law Firm",
+    "category": "Legal services",
+    "city": "Magam",
+    "phone": "+91 60060 63646",
+    "wa": "916006063646",
+    "url": "https://wa.me/916006063646"
+  },
+  {
+    "sno": "68",
+    "name": "Chill Out Cafe",
+    "category": "Cafe",
+    "city": "Sopore",
+    "phone": "+91 91499 84174",
+    "wa": "919149984174",
+    "url": "https://wa.me/919149984174"
+  },
+  {
+    "sno": "69",
+    "name": "Quick Solutions Engineers",
+    "category": "Engineering / repair",
+    "city": "Srinagar",
+    "phone": "+91 70067 61028",
+    "wa": "917006761028",
+    "url": "https://wa.me/917006761028"
+  },
+  {
+    "sno": "70",
+    "name": "Janta Bakery",
+    "category": "Bakery",
+    "city": "Srinagar",
+    "phone": "+91 194 2476909",
+    "wa": "911942476909",
+    "url": "https://wa.me/911942476909"
+  },
+  {
+    "sno": "71",
+    "name": "Kashmir Creative Forever",
+    "category": "Home goods / crafts",
+    "city": "Srinagar",
+    "phone": "+91 94190 77277",
+    "wa": "919419077277",
+    "url": "https://wa.me/919419077277"
+  },
+  {
+    "sno": "72",
+    "name": "Hijama Detox",
+    "category": "Beauty / wellness",
+    "city": "Srinagar",
+    "phone": "+91 91497 78859",
+    "wa": "919149778859",
+    "url": "https://wa.me/919149778859"
+  },
+  {
+    "sno": "73",
+    "name": "Saya Beauty Studio",
+    "category": "Beauty salon",
+    "city": "Srinagar",
+    "phone": "+91 97971 39987",
+    "wa": "919797139987",
+    "url": "https://wa.me/919797139987"
+  },
+  {
+    "sno": "74",
+    "name": "Hilo Makhbaz",
+    "category": "Bakery / dessert",
+    "city": "Srinagar",
+    "phone": "+91 94190 04555",
+    "wa": "919419004555",
+    "url": "https://wa.me/919419004555"
+  },
+  {
+    "sno": "75",
+    "name": "Unique Digital Centre",
+    "category": "Internet cafe / CSC",
+    "city": "Srinagar",
+    "phone": "+91 78894 60451",
+    "wa": "917889460451",
+    "url": "https://wa.me/917889460451"
+  },
+  {
+    "sno": "76",
+    "name": "meRani",
+    "category": "Clothing store",
+    "city": "Srinagar",
+    "phone": "+91 77809 58253",
+    "wa": "917780958253",
+    "url": "https://wa.me/917780958253"
+  },
+  {
+    "sno": "77",
+    "name": "Masood's Multispeciality Health Centre",
+    "category": "Clinic",
+    "city": "Srinagar",
+    "phone": "+91 94194 41407",
+    "wa": "919419441407",
+    "url": "https://wa.me/919419441407"
+  },
+  {
+    "sno": "78",
+    "name": "FastBeetle",
+    "category": "Courier / postal service",
+    "city": "Srinagar",
+    "phone": "+91 60052 88369",
+    "wa": "916005288369",
+    "url": "https://wa.me/916005288369"
+  },
+  {
+    "sno": "79",
+    "name": "XpressSys",
+    "category": "Courier / postal service",
+    "city": "Srinagar",
+    "phone": "+91 99067 42186",
+    "wa": "919906742186",
+    "url": "https://wa.me/919906742186"
+  },
+  {
+    "sno": "80",
+    "name": "Saklain's Coterie",
+    "category": "Beauty products",
+    "city": "Srinagar",
+    "phone": "+91 98187 31913",
+    "wa": "919818731913",
+    "url": "https://wa.me/919818731913"
+  },
+  {
+    "sno": "81",
+    "name": "Turfah Bakery and Restaurant",
+    "category": "Bakery / restaurant",
+    "city": "Srinagar",
+    "phone": "+91 70060 66405",
+    "wa": "917006066405",
+    "url": "https://wa.me/917006066405"
+  },
+  {
+    "sno": "82",
+    "name": "Sunset Boulevard Restaurant",
+    "category": "Restaurant",
+    "city": "Srinagar",
+    "phone": "+91 94190 17125",
+    "wa": "919419017125",
+    "url": "https://wa.me/919419017125"
+  },
+  {
+    "sno": "83",
+    "name": "The Professional Couriers Pulwama",
+    "category": "Courier",
+    "city": "Pulwama",
+    "phone": "+91 96225 40532",
+    "wa": "919622540532",
+    "url": "https://wa.me/919622540532"
+  },
+  {
+    "sno": "84",
+    "name": "Modern Furniture Pahoo",
+    "category": "Furniture store",
+    "city": "Pulwama",
+    "phone": "+91 77808 05252",
+    "wa": "917780805252",
+    "url": "https://wa.me/917780805252"
+  },
+  {
+    "sno": "85",
+    "name": "Liberty Exclusive Showroom Pulwama",
+    "category": "Clothing / shoes",
+    "city": "Pulwama",
+    "phone": "+91 70069 39017",
+    "wa": "917006939017",
+    "url": "https://wa.me/917006939017"
+  },
+  {
+    "sno": "86",
+    "name": "Zoom Car Wash",
+    "category": "Car wash",
+    "city": "Pulwama",
+    "phone": "+91 96974 99663",
+    "wa": "919697499663",
+    "url": "https://wa.me/919697499663"
+  },
+  {
+    "sno": "87",
+    "name": "Gold Palace",
+    "category": "Jeweller",
+    "city": "Pulwama",
+    "phone": "+91 70068 53893",
+    "wa": "917006853893",
+    "url": "https://wa.me/917006853893"
+  },
+  {
+    "sno": "88",
+    "name": "Fazli Watch House",
+    "category": "Watch shop",
+    "city": "Pulwama",
+    "phone": "+91 98583 36699",
+    "wa": "919858336699",
+    "url": "https://wa.me/919858336699"
+  },
+  {
+    "sno": "89",
+    "name": "Nazim's Dentocare",
+    "category": "Dental clinic",
+    "city": "Pulwama",
+    "phone": "+91 98588 35965",
+    "wa": "919858835965",
+    "url": "https://wa.me/919858835965"
+  },
+  {
+    "sno": "90",
+    "name": "Food Palace Pulwama",
+    "category": "Restaurant",
+    "city": "Pulwama",
+    "phone": "+91 98584 24403",
+    "wa": "919858424403",
+    "url": "https://wa.me/919858424403"
+  },
+  {
+    "sno": "91",
+    "name": "Think & Win Technologies",
+    "category": "Computer / electronics",
+    "city": "Kulgam",
+    "phone": "+91 80825 47273",
+    "wa": "918082547273",
+    "url": "https://wa.me/918082547273"
+  },
+  {
+    "sno": "92",
+    "name": "Digital Point Kulgam",
+    "category": "Electronics / mobile",
+    "city": "Kulgam",
+    "phone": "+91 99068 34626",
+    "wa": "919906834626",
+    "url": "https://wa.me/919906834626"
+  },
+  {
+    "sno": "93",
+    "name": "Apris Computers",
+    "category": "Computer repair",
+    "city": "Kulgam",
+    "phone": "+91 94690 73673",
+    "wa": "919469073673",
+    "url": "https://wa.me/919469073673"
+  },
+  {
+    "sno": "94",
+    "name": "Hardmix Traders",
+    "category": "Construction supplies",
+    "city": "Kulgam",
+    "phone": "+91 95964 72223",
+    "wa": "919596472223",
+    "url": "https://wa.me/919596472223"
+  },
+  {
+    "sno": "95",
+    "name": "BigLean Supplements Store",
+    "category": "Nutrition store",
+    "city": "Kulgam",
+    "phone": "+91 70062 08990",
+    "wa": "917006208990",
+    "url": "https://wa.me/917006208990"
+  },
+  {
+    "sno": "96",
+    "name": "Chunk City The Restaurant Kulgam",
+    "category": "Restaurant",
+    "city": "Kulgam",
+    "phone": "+91 88996 69994",
+    "wa": "918899669994",
+    "url": "https://wa.me/918899669994"
+  },
+  {
+    "sno": "97",
+    "name": "Sr Kings Kulgam",
+    "category": "Mobile phone store",
+    "city": "Kulgam",
+    "phone": "+91 98583 06099",
+    "wa": "919858306099",
+    "url": "https://wa.me/919858306099"
+  },
+  {
+    "sno": "98",
+    "name": "Yamaha Valley Motors Kulgam",
+    "category": "Motorcycle dealer",
+    "city": "Kulgam",
+    "phone": "+91 97978 27462",
+    "wa": "919797827462",
+    "url": "https://wa.me/919797827462"
+  },
+  {
+    "sno": "99",
+    "name": "Maruti Express Packers and Movers",
+    "category": "Packers and movers",
+    "city": "Jammu",
+    "phone": "+91 93171 73000",
+    "wa": "919317173000",
+    "url": "https://wa.me/919317173000"
+  },
+  {
+    "sno": "100",
+    "name": "Narsingh Communication",
+    "category": "Internet cafe / communication",
+    "city": "Jammu",
+    "phone": "+91 78898 50182",
+    "wa": "917889850182",
+    "url": "https://wa.me/917889850182"
+  }
+]
